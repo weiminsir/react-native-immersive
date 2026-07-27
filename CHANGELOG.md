@@ -1,6 +1,11 @@
 # Changelog
 ## 鸿蒙化Log
 
+### V2.2.1-rc.2
+
+- pre-release: @react-native-ohos/react-native-immersive@2.2.1-rc.2
+- fix: 支持多监听和监听为零时移除轮询
+
 ### V2.2.0-beta.4
 
 - pre-release: @react-native-ohos/react-native-immersive@2.2.0-beta.4
